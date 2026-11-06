@@ -1,0 +1,39 @@
+{
+  "covid19_salvia": {
+    "aligned": true,
+    "shape": [
+      2501,
+      885
+    ],
+    "recorded_units_by_class": {
+      "COV+": 30,
+      "COV-": 37,
+      "CTRL": 34
+    },
+    "sha256": "4bfb9c0b2a62b43a59735c377614dff77304c709498451a1aa4afcc4d129f87b"
+  },
+  "parkinson": {
+    "aligned": true,
+    "shape": [
+      1476,
+      885
+    ],
+    "recorded_units_by_class": {
+      "CTRL": 36,
+      "PD": 24
+    },
+    "sha256": "c50ec9457562866d46c47891f6a5297fa09ba69e9f0eb988d4a578afb71e8f14"
+  },
+  "alzheimer": {
+    "aligned": true,
+    "shape": [
+      1151,
+      885
+    ],
+    "recorded_units_by_class": {
+      "AD": 10,
+      "CTRL": 36
+    },
+    "sha256": "81c2c6204d1c80f7e232add224f98c306b70131413a4f747d69f28c3d048ab88"
+  }
+}

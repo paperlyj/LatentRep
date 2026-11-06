@@ -1,0 +1,385 @@
+{
+  "saliva_sha256": "e931ae93c2a1b8c2c13df8204f2a8ed09a9262dd7348bbd7d80966f8f64fb8f9",
+  "saliva_source": "https://github.com/ml-lab-htw/rb_data_fallback/releases/latest/download/Raman-Spectra-Data.zip",
+  "prostate_doi": "10.6084/m9.figshare.28107395.v1",
+  "prostate_files": [
+    {
+      "id": 51414857,
+      "name": "[1]1Ag110 NoBase.pt",
+      "computed_md5": "01d65d70bf29925dced21d3e51cabd81",
+      "download_url": "https://ndownloader.figshare.com/files/51414857"
+    },
+    {
+      "id": 51414881,
+      "name": "[1]1Ag123 NoBase.pt",
+      "computed_md5": "41710060e9e96c995d6887092202db54",
+      "download_url": "https://ndownloader.figshare.com/files/51414881"
+    },
+    {
+      "id": 51414866,
+      "name": "[1]1Ag124.pt",
+      "computed_md5": "d14c382cc010c245b85f5a60c193fad7",
+      "download_url": "https://ndownloader.figshare.com/files/51414866"
+    },
+    {
+      "id": 51414875,
+      "name": "[1]1Ag125 NoBase.pt",
+      "computed_md5": "227af4e05efb44e18444c24ec4d189f6",
+      "download_url": "https://ndownloader.figshare.com/files/51414875"
+    },
+    {
+      "id": 51414869,
+      "name": "[1]1Ag125.pt",
+      "computed_md5": "ea6c511add8618d81491d120ae48856b",
+      "download_url": "https://ndownloader.figshare.com/files/51414869"
+    },
+    {
+      "id": 51414878,
+      "name": "[1]1Ag139 NoBase.pt",
+      "computed_md5": "3e20783981c73735695874d7749a4c45",
+      "download_url": "https://ndownloader.figshare.com/files/51414878"
+    },
+    {
+      "id": 51414863,
+      "name": "[1]1Ag140 NoBase.pt",
+      "computed_md5": "2a29137e6083e49f112ac42023f114f0",
+      "download_url": "https://ndownloader.figshare.com/files/51414863"
+    },
+    {
+      "id": 51414860,
+      "name": "[1]1Ag148 NoBase.pt",
+      "computed_md5": "243d06b20c7cf4ab02a9795a71235dc4",
+      "download_url": "https://ndownloader.figshare.com/files/51414860"
+    },
+    {
+      "id": 51414884,
+      "name": "[1]1Ag157 NoBase.pt",
+      "computed_md5": "10a44beba9c4da7b66966720723a991d",
+      "download_url": "https://ndownloader.figshare.com/files/51414884"
+    },
+    {
+      "id": 51414872,
+      "name": "[1]1Ag160 NoBase.pt",
+      "computed_md5": "e05332e0a9be3db9f4dc9eb22dee70a5",
+      "download_url": "https://ndownloader.figshare.com/files/51414872"
+    },
+    {
+      "id": 51414854,
+      "name": "[1]1Ag165 NoBase.pt",
+      "computed_md5": "e52f029c5c766dd704270134d919a100",
+      "download_url": "https://ndownloader.figshare.com/files/51414854"
+    },
+    {
+      "id": 51414887,
+      "name": "[1]1Ag166 NoBase.pt",
+      "computed_md5": "f94331def9c7f31d9416e5b253db918c",
+      "download_url": "https://ndownloader.figshare.com/files/51414887"
+    },
+    {
+      "id": 51414890,
+      "name": "[1]1Ag182 NoBase.pt",
+      "computed_md5": "3252209464c50d165041eecc9c46f8d3",
+      "download_url": "https://ndownloader.figshare.com/files/51414890"
+    },
+    {
+      "id": 51414893,
+      "name": "[1]1Ag30 NoBase.pt",
+      "computed_md5": "f94ec2b9a54893f0cb83a2e18425bff5",
+      "download_url": "https://ndownloader.figshare.com/files/51414893"
+    },
+    {
+      "id": 51414896,
+      "name": "[1]1Ag33 NoBase.pt",
+      "computed_md5": "397c31fe556ea3f7eeba8c88a18cb360",
+      "download_url": "https://ndownloader.figshare.com/files/51414896"
+    },
+    {
+      "id": 51414899,
+      "name": "[1]1Ag4 NoBase.pt",
+      "computed_md5": "cb7f59d541b8db2f2f4c2cb740f3e261",
+      "download_url": "https://ndownloader.figshare.com/files/51414899"
+    },
+    {
+      "id": 51414902,
+      "name": "[1]1Ag41 NoBase.pt",
+      "computed_md5": "ef7a280456d52b56b0f1f379e6df1c6e",
+      "download_url": "https://ndownloader.figshare.com/files/51414902"
+    },
+    {
+      "id": 51414905,
+      "name": "[1]1Ag43 NoBase.pt",
+      "computed_md5": "d0d2783d0d98ecc7f5167352a4fc1a4c",
+      "download_url": "https://ndownloader.figshare.com/files/51414905"
+    },
+    {
+      "id": 51414908,
+      "name": "[1]1Ag5 NoBase.pt",
+      "computed_md5": "22ffdb69c17bf2c6a02be5116e3724d1",
+      "download_url": "https://ndownloader.figshare.com/files/51414908"
+    },
+    {
+      "id": 51414911,
+      "name": "[1]1Ag60 NoBase.pt",
+      "computed_md5": "d016576b41aa89694193a273ab3a8953",
+      "download_url": "https://ndownloader.figshare.com/files/51414911"
+    },
+    {
+      "id": 51414914,
+      "name": "[1]1Ag62 NoBase.pt",
+      "computed_md5": "4de4554fe9613e2a391c9b1fbd84a1f7",
+      "download_url": "https://ndownloader.figshare.com/files/51414914"
+    },
+    {
+      "id": 51414917,
+      "name": "[1]1Ag69 NoBase.pt",
+      "computed_md5": "b8d0c114af2739992861d4e85c4f693e",
+      "download_url": "https://ndownloader.figshare.com/files/51414917"
+    },
+    {
+      "id": 51414920,
+      "name": "[1]1Ag92 NoBase.pt",
+      "computed_md5": "9da5d3308554dc7a2a1879bed55a28c3",
+      "download_url": "https://ndownloader.figshare.com/files/51414920"
+    },
+    {
+      "id": 51414923,
+      "name": "[1]630 NoBase.pt",
+      "computed_md5": "27c660a2a718458fd977effe3d0ad5b4",
+      "download_url": "https://ndownloader.figshare.com/files/51414923"
+    },
+    {
+      "id": 51414926,
+      "name": "[2]1Ag104 NoBase.pt",
+      "computed_md5": "098da2073dee112d6d383697ab634ed0",
+      "download_url": "https://ndownloader.figshare.com/files/51414926"
+    },
+    {
+      "id": 51414929,
+      "name": "[2]1Ag112 NoBase.pt",
+      "computed_md5": "f18e7ebb501bcbcf9bfce5f72643fbbd",
+      "download_url": "https://ndownloader.figshare.com/files/51414929"
+    },
+    {
+      "id": 51414932,
+      "name": "[2]1Ag128 NoBase.pt",
+      "computed_md5": "11adb5f94c8d48a64505067ed94350f6",
+      "download_url": "https://ndownloader.figshare.com/files/51414932"
+    },
+    {
+      "id": 51414935,
+      "name": "[2]1Ag132 NoBase.pt",
+      "computed_md5": "fe57dd6487172b1215a3f8b7e10c6206",
+      "download_url": "https://ndownloader.figshare.com/files/51414935"
+    },
+    {
+      "id": 51414938,
+      "name": "[2]1Ag16 NoBase.pt",
+      "computed_md5": "63bd5c3619a2fed4c97ff2f01daced31",
+      "download_url": "https://ndownloader.figshare.com/files/51414938"
+    },
+    {
+      "id": 51414941,
+      "name": "[2]1Ag169 NoBase.pt",
+      "computed_md5": "f6a87eabd1d47912a61d37bd8a57f6ca",
+      "download_url": "https://ndownloader.figshare.com/files/51414941"
+    },
+    {
+      "id": 51414944,
+      "name": "[2]1Ag210 NoBase.pt",
+      "computed_md5": "531be6dc728a15d99849365421b4a11e",
+      "download_url": "https://ndownloader.figshare.com/files/51414944"
+    },
+    {
+      "id": 51414947,
+      "name": "[2]1Ag259 NoBase.pt",
+      "computed_md5": "5d737b51578373ef40bfdf8529c21aac",
+      "download_url": "https://ndownloader.figshare.com/files/51414947"
+    },
+    {
+      "id": 51414950,
+      "name": "[2]1Ag262 NoBase.pt",
+      "computed_md5": "f5180768335e83fa26523f172688e7ed",
+      "download_url": "https://ndownloader.figshare.com/files/51414950"
+    },
+    {
+      "id": 51414953,
+      "name": "[2]1Ag263 NoBase.pt",
+      "computed_md5": "071f47e5fe18c1b093b900e6f015aa56",
+      "download_url": "https://ndownloader.figshare.com/files/51414953"
+    },
+    {
+      "id": 51414956,
+      "name": "[2]1Ag284 NoBase.pt",
+      "computed_md5": "b88ef49e4651e06552cad68156fcdab4",
+      "download_url": "https://ndownloader.figshare.com/files/51414956"
+    },
+    {
+      "id": 51414959,
+      "name": "[2]1Ag63 NoBase.pt",
+      "computed_md5": "f6dc2b2d36544386b5c3a37121d02ad3",
+      "download_url": "https://ndownloader.figshare.com/files/51414959"
+    },
+    {
+      "id": 51414962,
+      "name": "[2]1Ag67 NoBase.pt",
+      "computed_md5": "18a6412f1791b097fd4179a22b46f799",
+      "download_url": "https://ndownloader.figshare.com/files/51414962"
+    },
+    {
+      "id": 51414968,
+      "name": "[2]1Ag76 NoBase.pt",
+      "computed_md5": "267c3c5058992edaafffe9ce6b88eea4",
+      "download_url": "https://ndownloader.figshare.com/files/51414968"
+    },
+    {
+      "id": 51414965,
+      "name": "[2]1Ag8 NoBase.pt",
+      "computed_md5": "b857da79e6d9b014ae6014b3c0d4913a",
+      "download_url": "https://ndownloader.figshare.com/files/51414965"
+    },
+    {
+      "id": 51414971,
+      "name": "[2]1Ag9 NoBase.pt",
+      "computed_md5": "05c15df48d63f13d7bb052fe4f54237f",
+      "download_url": "https://ndownloader.figshare.com/files/51414971"
+    },
+    {
+      "id": 51414977,
+      "name": "[2]625 NoBase.pt",
+      "computed_md5": "9a660cc01158a3f616da9c2aea41aa0c",
+      "download_url": "https://ndownloader.figshare.com/files/51414977"
+    },
+    {
+      "id": 51414974,
+      "name": "[2]634 NoBase.pt",
+      "computed_md5": "0ac985fcddbfed642c37ac522bd8be48",
+      "download_url": "https://ndownloader.figshare.com/files/51414974"
+    },
+    {
+      "id": 51414980,
+      "name": "[2]646 NoBase.pt",
+      "computed_md5": "2e1da7f7a1c8929cf1293cfa144a8516",
+      "download_url": "https://ndownloader.figshare.com/files/51414980"
+    },
+    {
+      "id": 51414983,
+      "name": "[2]647 NoBase.pt",
+      "computed_md5": "569f9e96a6a9ab18d3e4abde80289aa1",
+      "download_url": "https://ndownloader.figshare.com/files/51414983"
+    },
+    {
+      "id": 51414986,
+      "name": "[2]698 NoBase.pt",
+      "computed_md5": "0d49f2d1cd977538e06f44754dba79e6",
+      "download_url": "https://ndownloader.figshare.com/files/51414986"
+    },
+    {
+      "id": 51414989,
+      "name": "[2]771 NoBase.pt",
+      "computed_md5": "b6127f5e7d31ed9d80eb50e95e98127b",
+      "download_url": "https://ndownloader.figshare.com/files/51414989"
+    },
+    {
+      "id": 51414992,
+      "name": "[2]776 NoBase.pt",
+      "computed_md5": "06221392fa6df7b67e493330432b6f3e",
+      "download_url": "https://ndownloader.figshare.com/files/51414992"
+    },
+    {
+      "id": 51414995,
+      "name": "[3]1Ag313 NoBase.pt",
+      "computed_md5": "6b2022bbc1d6fb2100b9e94386743dd7",
+      "download_url": "https://ndownloader.figshare.com/files/51414995"
+    },
+    {
+      "id": 51414998,
+      "name": "[3]1Ag328 NoBase.pt",
+      "computed_md5": "54bced44d3f1816bab2cc3d3a476fa66",
+      "download_url": "https://ndownloader.figshare.com/files/51414998"
+    },
+    {
+      "id": 51415001,
+      "name": "[3]1Ag353 NoBase.pt",
+      "computed_md5": "67bfa9d87958070e9bfdbb8fa4a8c4b7",
+      "download_url": "https://ndownloader.figshare.com/files/51415001"
+    },
+    {
+      "id": 51415004,
+      "name": "[3]1Ag361 NoBase.pt",
+      "computed_md5": "f58866768289ebc90463cd9458c994ce",
+      "download_url": "https://ndownloader.figshare.com/files/51415004"
+    },
+    {
+      "id": 51415007,
+      "name": "[3]1Ag380 NoBase.pt",
+      "computed_md5": "2b1d95e510151e60761a7246d2924e05",
+      "download_url": "https://ndownloader.figshare.com/files/51415007"
+    },
+    {
+      "id": 51415010,
+      "name": "[3]1Ag387 NoBase.pt",
+      "computed_md5": "379c5b2a3a35c6574e72b36efe0088c8",
+      "download_url": "https://ndownloader.figshare.com/files/51415010"
+    },
+    {
+      "id": 51415013,
+      "name": "[3]1Ag409 NoBase.pt",
+      "computed_md5": "9b20a6d58a1e74d79d7a916f24923ee4",
+      "download_url": "https://ndownloader.figshare.com/files/51415013"
+    },
+    {
+      "id": 51415016,
+      "name": "[3]1Ag417 NoBase.pt",
+      "computed_md5": "050323c2489e83a0663cfd428979e510",
+      "download_url": "https://ndownloader.figshare.com/files/51415016"
+    },
+    {
+      "id": 51415019,
+      "name": "[3]1Ag51 NoBase.pt",
+      "computed_md5": "e2ee89cd5eb33eac0407d7421bf571cd",
+      "download_url": "https://ndownloader.figshare.com/files/51415019"
+    },
+    {
+      "id": 51415022,
+      "name": "[3]1Ag52 NoBase.pt",
+      "computed_md5": "058945909d9dc9da0ffaab00a1974959",
+      "download_url": "https://ndownloader.figshare.com/files/51415022"
+    },
+    {
+      "id": 51415025,
+      "name": "[3]1Ag58 NoBase.pt",
+      "computed_md5": "a2bf975dee6cfe9c6d28d55bcd76eec9",
+      "download_url": "https://ndownloader.figshare.com/files/51415025"
+    },
+    {
+      "id": 51415028,
+      "name": "[3]LJW NoBase.pt",
+      "computed_md5": "23e4bb43034fa62463c6766434ab74f7",
+      "download_url": "https://ndownloader.figshare.com/files/51415028"
+    },
+    {
+      "id": 51415031,
+      "name": "[3]WSX NoBase.pt",
+      "computed_md5": "9fd2a76f22cdc19ba3f8f8ffe8d60412",
+      "download_url": "https://ndownloader.figshare.com/files/51415031"
+    },
+    {
+      "id": 51415034,
+      "name": "[3]XSB NoBase.pt",
+      "computed_md5": "8e82130b7cb0769f1eaa9967a1705a6e",
+      "download_url": "https://ndownloader.figshare.com/files/51415034"
+    },
+    {
+      "id": 51415037,
+      "name": "[3]ZGQ NoBase.pt",
+      "computed_md5": "e85f5ddadf076b0829d3a8c08372cacd",
+      "download_url": "https://ndownloader.figshare.com/files/51415037"
+    },
+    {
+      "id": 51415040,
+      "name": "[3]ZXY NoBase.pt",
+      "computed_md5": "5e59f51c6d405f578981c8a90581224a",
+      "download_url": "https://ndownloader.figshare.com/files/51415040"
+    }
+  ]
+}
