@@ -1,3 +1,14 @@
+## Download the complete materials
+
+The complete manuscript submission snapshot is available as
+`LatentRep_CILS_Reproducibility.zip` under **Releases → v1.0.0**.
+
+Download and extract this archive before running the verification scripts.
+The repository-root files are provided for browsing and do not include
+the complete saved results.
+
+See `EVIDENCE_STATUS.md` for the scope and limitations of reproducibility.
+
 # LatentRep analysis and reproducibility materials
 
 Companion to the manuscript submitted for consideration to Chemometrics and Intelligent Laboratory Systems.
